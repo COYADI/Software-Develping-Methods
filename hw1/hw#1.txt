@@ -1,0 +1,19 @@
+Please answer the following questions in English or Chinese.
+
+Q: What are your student ID and name?
+A: b06705020, 郭又嘉 
+
+Q: What are your favorite programming languages for software development?
+A: python
+
+Q: What is the difference between validation and verification?
+(Please be brief, using no more than 100 English words or Chinese characters.)
+A: validation is to check if the software meets customers' needs, while verification is to check if the software's functions can be successfully developed or realized.
+
+Q: What is the relation between verification and testing?
+(Please be brief, using no more than 100 English words or Chinese characters.)
+A: testing is a part of verification, which is to test if a software is functional and match the initial design.
+
+Q: When would you want to "rebase" a branch in Git?
+(Please be brief, using no more than 100 English words or Chinese characters.)
+A: when I want to merge branches rather than creating new ones.
